@@ -22,3 +22,8 @@ def main():
     if len(ds_year.time) == 0:
         raise ValueError(f"No data for year {year}.")
 ```
+
+- [x] do the thing
+- [ ] not zet
+- [x] acknowledge or aknowledge? 
+- [ ] non
